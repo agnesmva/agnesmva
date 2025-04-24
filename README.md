@@ -1,8 +1,5 @@
 # 👩‍💻 Agnes Maria | Machine Learning Researcher
 
-> 🌐 **Switch Language**  
-> [🇺🇸 English](#-agnes-maria--machine-learning-researcher) | [🇧🇷 Português](#-agnes-maria--pesquisadora-em-machine-learning)
-
 ---
 
 ## 🌍 English
