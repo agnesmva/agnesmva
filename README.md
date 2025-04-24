@@ -22,11 +22,6 @@ Acredito que a tecnologia deve ser ética, acessível e representativa. Por isso
 
 ## 🛠 Tech Stack
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnesmva&layout=compact&hide=html,css&theme=white" />
-</p>
-
 <div align="center" style="margin: 15px 0">
   <h3> 🖥 Operating Systems </h3>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
@@ -51,6 +46,12 @@ Acredito que a tecnologia deve ser ética, acessível e representativa. Por isso
   <img src="https://img.shields.io/badge/PostgreSQL-31678d?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-00684a?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnesmva&layout=compact&hide=html,css&theme=white" />
+</p>
 
 ---
 
