@@ -26,7 +26,7 @@ Acredito que a tecnologia deve ser ética, acessível e representativa. Por isso
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnesmva&layout=compact&hide=html,css&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnesmva&layout=compact&hide=html,css&theme=white" />
 </p>
 
 <div align="center" style="margin: 15px 0">
