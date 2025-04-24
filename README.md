@@ -24,7 +24,7 @@ Acredito que a tecnologia deve ser ética, acessível e representativa. Por isso
 <div align="center" style="margin: 15px 0">
   <h3> 🖥 Operating Systems </h3>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </div>
 
 <div align="center" style="margin: 15px 0">
