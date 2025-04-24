@@ -1,5 +1,4 @@
-# 👩‍💻 Agnes Maria | Machine Learning Researcher
-
+# 👩‍💻 Agnes Maria 
 ---
 
 ## 🌍 English
