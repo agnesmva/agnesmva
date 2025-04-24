@@ -17,6 +17,7 @@ I believe technology should be ethical, accessible, and representative. That's w
 Sou estudante de Desenvolvimento de Software Multiplataforma, com especial interesse em Machine Learning e seu impacto social. Atualmente, desenvolvo uma pesquisa voltada à investigação de viéses sociais em modelos de linguagem de larga escala (LLMs), buscando compreender suas causas e propor estratégias para mitigar esses efeitos.
 
 Acredito que a tecnologia deve ser ética, acessível e representativa. Por isso, meu foco está em construir soluções que respeitem a diversidade e promovam a equidade.
+
 ---
 
 ## 🛠 Tech Stack
