@@ -29,8 +29,7 @@ Acredito que a tecnologia deve ser ética, acessível e representativa. Por isso
 
 <div align="center" style="margin: 15px 0">
   <h3> 💻 Programming Languages </h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Python-3772a2?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
 <div align="center" style="margin: 15px 0">
@@ -42,7 +41,7 @@ Acredito que a tecnologia deve ser ética, acessível e representativa. Por isso
  
 <div align="center" style="margin: 15px 0">
   <h3>Databases</h3>
-  <img src="https://img.shields.io/badge/PostgreSQL-31678d?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-31678d?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-00684a?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
