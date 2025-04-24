@@ -1,11 +1,8 @@
 # Olá, sou Agnes Maria Varela 👩‍💻
 
-Sou estudante e apaixonada por tecnologia, atualmente explorando a área de **Machine Learning** e seu impacto, especialmente relacionado ao **viés de gênero**. Também me interesso por **Interação Humano-Computador (IHC)** com foco em **acessibilidade** e **testes**.  🚀
+Sou estudante e entusiasta da tecnologia, com especial interesse em Machine Learning e seu impacto social. Atualmente, desenvolvo uma pesquisa voltada à investigação de viéses sociais em modelos de linguagem de larga escala (LLMs), buscando compreender suas causas e propor estratégias para mitigar esses efeitos.
 
-## Interesses
-- **Machine Learning**: Entendendo como a inteligência artificial pode ser desenvolvida de forma ética, levando em consideração o vieses.
-- **IHC**: Focando na criação de interfaces acessíveis e inclusivas, com ênfase em testes de usabilidade.
-- **Tecnologia e Inclusão**: Buscando entender como a tecnologia pode ser mais inclusiva e acessível para todos.
+Acredito que a tecnologia deve ser ética, acessível e representativa. Por isso, meu foco está em construir soluções que respeitem a diversidade e promovam a equidade.
 
 ## Linguagens Mais Utilizadas
 <p align="center">
