@@ -45,18 +45,7 @@ Acredito que a tecnologia deve ser ética, acessível e representativa. Por isso
   <img src="https://img.shields.io/badge/MongoDB-00684a?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnesmva&layout=compact&hide=html,css&theme=white" />
-</p>
-
 ---
-
-## 🌱 Current Focus
-🔬 Researching bias mitigation strategies in LLMs  
-⚖️ Developing ethical AI frameworks  
-🌐 Promoting diversity in tech communities
 
 ---
 
