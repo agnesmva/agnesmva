@@ -1,23 +1,19 @@
-# 👩‍💻 Agnes Varela 
----
+# 👩‍💻 Agnes Varela
 
 ## 🌍 English
 
 ### 🔍 About Me
-I'm a tech student in Development of Software, with a strong interest in Machine Learning and its social impact. Currently, I'm conducting a research project focused on identifying and analyzing social biases in large language models (LLMs), aiming to understand their causes and propose strategies to mitigate these effects.
 
-I believe technology should be ethical, accessible, and representative. That's why I’m committed to building solutions that embrace diversity and foster equity.
+I'm a Software Developer focused on backend development, software architecture, and Machine Learning applications with social impact. My work combines technology, research, and problem-solving to create systems that are scalable, accessible, and ethically designed.
 
 ---
 
 ## 🌍 Português
 
 ### 🔍 Sobre Mim
-Sou estudante de Desenvolvimento de Software Multiplataforma, com especial interesse em Machine Learning e seu impacto social. Atualmente, desenvolvo uma pesquisa voltada à investigação de viéses sociais em modelos de linguagem de larga escala (LLMs), buscando compreender suas causas e propor estratégias para mitigar esses efeitos.
 
-Acredito que a tecnologia deve ser ética, acessível e representativa. Por isso, meu foco está em construir soluções que respeitem a diversidade e promovam a equidade.
+Sou desenvolvedora de software com foco em desenvolvimento backend, arquitetura de software e aplicações de Machine Learning com impacto social. Meu trabalho une tecnologia, pesquisa e resolução de problemas para construir sistemas escaláveis, acessíveis e desenvolvidos de forma ética.
 
----
 
 ## 🛠 Tech Stack
 
