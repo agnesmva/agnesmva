@@ -27,6 +27,7 @@ Sou desenvolvedora de software com foco em desenvolvimento backend, arquitetura 
   <h3> 💻 Programming Languages </h3>
   <img src="https://img.shields.io/badge/Python-3772a2?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </div>
 <div align="center" style="margin: 15px 0">
   <h3>📚 Frameworks & Libraries</h3>
